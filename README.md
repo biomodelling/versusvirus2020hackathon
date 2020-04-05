@@ -1,6 +1,12 @@
+<p float="left">
+    <img src="public/zhaw_ias.png" width="200" />
+    <img src="public/logo_versusvirus.png" width="200" />
+</p>
+
+
 # Real-time monitoring of available beds for intensive care units in Swiss Hospitals
 
-During the Corona-Crisis, ICU beds and ventilators are of the essence to preserve human life. This #versusvirus hackathon project, aims to first monitor the data in realtimea and secondly process the data into one localized system and visualization. The third step is to base a model on the available data to forecast the need of beds in certain areas.
+During the Corona-Crisis, ICU beds and ventilators are of the essence to preserve human life. This [#versusvirus](https://www.versusvirus.ch) hackathon project, aims to first monitor the data in realtime and secondly process the data into one localized system and visualization. The third step is to base a model on the available data to forecast the need of beds in certain areas.
 
 ![Demo](https://github.com/biomodelling/versusvirus2020hackathon/raw/master/public/app_demo.png)
 
