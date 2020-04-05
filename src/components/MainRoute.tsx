@@ -58,8 +58,8 @@ export const MainRoute = () => {
                                 description="Explanation of the website"
                                 defaultMessage="Real-time monitoring of available beds for intensive care units in Swiss Hospitals. 
                                 During the Corona-Crisis, ICU beds and ventilators are of the essence to preserve human life. 
-                                This #versusvirus hackathon project, aims to first monitor the data in realtimea and secondly process the data into one localized system and visualization. 
-                                The third step is to base a model on the available data to forecast the need of beds in certain areas. "
+                                This highly flexible and scalable web-based application is a prototype to monitor in real-time the hospital capacities
+                                and built to be easily extended to display other hospital ressources."
                               >
                                 {(txt) => <><p><a href="https://www.versusvirus.ch/"><img src={'/logo.png'} alt="Logo" id='logo'/></a>{txt}</p></>}
                               </FormattedMessage>

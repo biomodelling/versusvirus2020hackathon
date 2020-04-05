@@ -19,14 +19,14 @@ export class Repository implements RepositoryI {
                 id:1234,
                 name:'Example',
                 address:{
-                    state: 'Bavaria',
-                    city: 'Augsburg',
-                    postcode: '86153',
-                    street: 'Friedrich-List-Str.',
-                    streetNumber: 2
+                    state: 'Kanton Zurich',
+                    city: 'Zürich',
+                    postcode: '8091',
+                    street: 'Rämistrasse',
+                    streetNumber: 100
                 },
                 phoneNumber:'01531931531',
-                website:'example.de',
+                website:'example.ch',
                 location:{
                     longitude: 15.1234,
                     latitude: 27.2713
