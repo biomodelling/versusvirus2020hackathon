@@ -1,6 +1,7 @@
 <p float="left">
     <img src="public/zhaw_ias.png" width="200" />
     <img src="public/logo_versusvirus.png" width="200" />
+    <img src="public/thumb.jpg" width="200" />
 </p>
 
 
